@@ -1,0 +1,380 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "note": "Single source of truth per PROJECT_SPEC. Add more sites to the array for multi-site support.",
+    "crowdDataNote": "All crowd data is SIMULATED for demonstration purposes only."
+  },
+  "sites": [
+    {
+      "id": "bangla-sahib",
+      "name_en": "Gurudwara Bangla Sahib",
+      "name_hi": "गुरुद्वारा बांग्ला साहिब",
+      "address": {
+        "en": "Baba Kharak Singh Marg, Connaught Place, New Delhi – 110001",
+        "hi": "बाबा खड़क सिंह मार्ग, कनॉट प्लेस, नई दिल्ली – 110001"
+      },
+      "coordinates": {
+        "lat": 28.627,
+        "lng": 77.209
+      },
+      "openingHours_en": "Open 24 Hours · Langar all day",
+      "openingHours_hi": "24 घंटे खुला · पूरे दिन लंगर",
+      "shortDescription_en": "One of the most prominent Sikh houses of worship in Delhi, Gurudwara Bangla Sahib is associated with the eighth Sikh Guru, Guru Har Krishan Ji, and is known for its serene sarovar (holy tank) and the langar (community kitchen) open to all.",
+      "shortDescription_hi": "दिल्ली के सबसे प्रमुख सिख धार्मिक स्थलों में से एक, गुरुद्वारा बांग्ला साहिब आठवें सिख गुरु, गुरु हर किशन जी से जुड़ा हुआ है और अपने सरोवर (पवित्र सरोवर) और सभी के लिए खुले लंगर के लिए जाना जाता है।",
+      "storyPoints": [
+        {
+          "id": "sp-1",
+          "title_en": "Nishan Sahib",
+          "title_hi": "निशान साहिब",
+          "story_en": "As you enter the forecourt of Gurudwara Bangla Sahib, the first thing that draws your gaze skyward is the Nishan Sahib — the sacred triangular flag of the Sikhs, soaring high on a tall flagpole wrapped in fabric matching the flag's own colour.\n\nThe word Nishan is Persian for 'symbol' or 'mark', and Sahib is an honorific of respect. Together, they name the most visible declaration of a Sikh sanctuary. The tradition of flying such a flag was established in 1606 by Guru Hargobind Ji, the sixth Sikh Guru, at the Akal Takht in Amritsar — marking the unity of Miri (temporal responsibility) and Piri (spiritual wisdom) that defines Sikhism's engagement with the world.\n\nAt the centre of the flag flies the Khanda emblem: a double-edged sword representing divine knowledge, flanked by two kirpans symbolising Miri and Piri, encircled by the Chakkar — a seamless ring representing the eternal, timeless nature of the Creator.\n\nFor anyone navigating the busy streets of New Delhi, the tall, saffron-coloured Nishan Sahib is a beacon of unconditional welcome. It signals that within these walls, all are equal — regardless of faith, caste, or creed — and that free food, shelter from difficulty, and a moment of peace are available to every human being who enters.\n\nEach year around Baisakhi, the flag cloth and its covering are ceremonially renewed by the community: the pole washed with milk and water, prayers chanted, and a fresh Nishan Sahib hoisted with great devotion — a living renewal of the Guru's promise.",
+          "story_hi": "गुरुद्वारा बांग्ला साहिब के प्रांगण में प्रवेश करते ही आपकी दृष्टि आकाश की ओर उठती है — वहाँ ऊँचे झंडे पर लहराता है निशान साहिब, सिखों का पवित्र त्रिकोणीय ध्वज।\n\n'निशान' फ़ारसी शब्द है जिसका अर्थ है 'प्रतीक' या 'चिह्न', और 'साहिब' एक सम्मानसूचक शब्द है। दोनों मिलकर एक सिख तीर्थस्थल की सबसे दृश्यमान घोषणा को नाम देते हैं। इस परंपरा की स्थापना 1606 में छठे सिख गुरु, गुरु हरगोबिंद जी ने अमृतसर के अकाल तख्त पर की थी — जो मीरी (सांसारिक उत्तरदायित्व) और पीरी (आध्यात्मिक ज्ञान) की एकता का प्रतीक है।\n\nध्वज के केंद्र में खंडा चिह्न है: बीच में दोहरी धार वाली तलवार दिव्य ज्ञान का प्रतीक है, दोनों ओर दो कृपाणें मीरी और पीरी को दर्शाती हैं, और चारों ओर चक्र — एक अखंड वृत्त जो परमात्मा की शाश्वत, कालातीत प्रकृति को व्यक्त करता है।\n\nनई दिल्ली की व्यस्त सड़कों पर चलते हुए, ऊँचा केसरी निशान साहिब एक सार्वभौमिक स्वागत का प्रतीक है — यह संदेश देता है कि इन दीवारों के भीतर सब समान हैं, और हर इंसान के लिए मुफ़्त भोजन, शांति और आश्रय उपलब्ध है।\n\nप्रतिवर्ष बैसाखी के अवसर पर समुदाय मिलकर झंडे के वस्त्र और आवरण को बड़ी श्रद्धा से नवीनीकृत करता है — खम्भे को दूध और जल से धोया जाता है, पाठ होता है, और नया निशान साहिब चढ़ाया जाता है।",
+          "lat": 28.6272,
+          "lng": 77.2088,
+          "image": "/images/sp-1-nishan-sahib.jpg"
+        },
+        {
+          "id": "sp-2",
+          "title_en": "The Bungalow of Raja Jai Singh",
+          "title_hi": "राजा जय सिंह की हवेली",
+          "story_en": "The ground beneath your feet holds a remarkable story of royal hospitality and a young Guru's wisdom. In 1664, this entire site was the palatial bungalow of Mirza Raja Jai Singh II of Amber — a powerful Rajput king and trusted general of the Mughal Emperor Aurangzeb, who was nonetheless a devout admirer of the Sikh Gurus.\n\nThe eighth Sikh Guru, Guru Har Krishan Ji, had become Guru at only five years of age. Facing political pressure from the Mughal court — largely due to the scheming of his estranged elder brother Ram Rai — Guru Ji was summoned to Delhi. Raja Jai Singh, in an act of profound respect, offered his own majestic residence as the Guru's home.\n\nA beloved story from this time tells of a test by Raja Jai Singh's wife, the Rani. Wanting to examine the young Guru's divine insight, she dressed herself as a maidservant and seated a richly adorned lady-in-waiting in her place. When Guru Har Krishan Ji arrived, he walked calmly past the dressed-up maid, sat directly beside the Rani, and addressed her by name. Awestruck by the child Guru's omniscience, the royal couple's devotion deepened immeasurably.\n\nBecause the Guru resided in Raja Jai Singh's bangla (bungalow), this sacred place came to be known forever as Bangla Sahib. The original bungalow was gradually transformed into a Gurudwara by Sardar Baghel Singh in 1783, and the gleaming marble complex with its golden domes that you see today grew from that act of devotion.",
+          "story_hi": "आपके पैरों के नीचे की यह भूमि राजसी आतिथ्य और एक बाल गुरु के दिव्य ज्ञान की अद्भुत गाथा समेटे हुए है। सन् 1664 में यह पूरा स्थान आमेर के मिर्ज़ा राजा जय सिंह द्वितीय की भव्य हवेली था — वे एक शक्तिशाली राजपूत राजा और मुग़ल बादशाह औरंगज़ेब के विश्वसनीय सेनापति थे, किंतु साथ ही सिख गुरुओं के गहरे श्रद्धालु भी।\n\nआठवें सिख गुरु, गुरु हर किशन जी, मात्र पाँच वर्ष की आयु में गुरुगद्दी पर बैठे थे। मुग़ल दरबार के राजनैतिक दबाव के चलते उन्हें दिल्ली बुलाया गया। राजा जय सिंह ने असाधारण आदर के साथ गुरु जी को अपनी भव्य हवेली में ठहराया।\n\nउस समय की एक प्रसिद्ध कथा है — राजा जय सिंह की रानी ने बाल गुरु की दिव्य दृष्टि की परीक्षा लेनी चाही। उन्होंने स्वयं दासी का वेश धारण किया और एक अलंकृत दासी को रानी बनाकर बैठाया। जब गुरु हर किशन जी पहुँचे, तो वे बिना रुके वास्तविक रानी के पास गए और उन्हें उनके नाम से पुकारा। इस दिव्य बोध को देखकर राजा-रानी का श्रद्धाभाव और भी गहरा हो गया।\n\nचूँकि गुरु जी राजा जय सिंह के 'बंगले' (हवेली) में रहे, इसलिए यह स्थान सदा के लिए 'बांग्ला साहिब' के नाम से जाना जाने लगा। 1783 में सरदार बाघेल सिंह ने इस हवेली को गुरुद्वारे का रूप दिया, और आज जो संगमरमर का भव्य परिसर आप देख रहे हैं, वह उसी श्रद्धा की नींव पर खड़ा है।",
+          "lat": 28.627,
+          "lng": 77.2091,
+          "image": "/images/sp-2-raja-jai-singh.jpg"
+        },
+        {
+          "id": "sp-3",
+          "title_en": "Guru Har Krishan Ji's Seva",
+          "title_hi": "गुरु हर किशन जी की सेवा",
+          "story_en": "In 1664, while Guru Har Krishan Ji resided at Raja Jai Singh's bungalow, a devastating epidemic of smallpox and cholera swept through Delhi. Fear gripped the city. People were abandoned by their own families, left to suffer alone in the streets.\n\nThe Guru was only seven years old. Yet, without a moment's hesitation, he threw open the doors of the bungalow to all who were suffering — Hindus, Muslims, Sikhs — every person regardless of religion, caste, or background. He personally tended to the sick, comforted the dying, and arranged for food and medicine to be distributed. Volunteers who joined him in this seva (selfless service) worked tirelessly at his side.\n\nHe instructed that blessed water from the well within the bungalow be given to those afflicted. Thousands found comfort, and many recovered. People of all faiths — moved by the compassion of this child — began calling him 'Bala Pir', meaning the Child Saint.\n\nBut in nursing so many who were ill, Guru Har Krishan Ji himself contracted smallpox. Even as his own fever rose, his thoughts remained with others. He passed from this world on 30 March 1664, just short of his eighth birthday. Before leaving, he was asked who would lead the Sikhs next. His last words were 'Baba Bakale' — directing his followers to the village of Bakala, where Guru Tegh Bahadur Ji would be found.\n\nTo this day, Guru Har Krishan Ji is remembered in the daily Ardas — the Sikh prayer recited in every Gurudwara around the world — with the words: Sri Har Krishan dhiaiye jis dithhey sab dukh jaae: 'Let us remember Guru Har Krishan, whose very sight dispels all suffering.'",
+          "story_hi": "सन् 1664 में, जब गुरु हर किशन जी राजा जय सिंह की हवेली में थे, दिल्ली में चेचक और हैज़े की भयंकर महामारी फैल गई। पूरे शहर में दहशत थी। लोग अपने परिजनों को सड़कों पर छोड़कर भाग रहे थे।\n\nगुरु जी मात्र सात वर्ष के थे। फिर भी, एक पल की देरी किए बिना उन्होंने हवेली के द्वार सभी पीड़ितों के लिए खोल दिए — हिंदू, मुसलमान, सिख — बिना किसी भेदभाव के। उन्होंने स्वयं रोगियों की सेवा की, मृत्यु-शय्या पर पड़े लोगों को सांत्वना दी, और भोजन व दवाइयाँ वितरित करवाईं।\n\nउन्होंने कुएँ के पवित्र जल को आशीर्वाद देकर पीड़ितों को पिलाने का आदेश दिया। हज़ारों लोगों को राहत मिली। हर धर्म के लोग इस बाल गुरु की करुणा से अभिभूत हो गए और उन्हें 'बाला पीर' — बाल संत — कहने लगे।\n\nकिंतु इतने रोगियों की सेवा करते हुए गुरु हर किशन जी स्वयं चेचक की चपेट में आ गए। बुखार में भी उनके मन में दूसरों की ही चिंता थी। 30 मार्च 1664 को, अपने आठवें जन्मदिन से ठीक पहले, वे ज्योति जोत समा गए। जाने से पहले जब उनसे पूछा गया कि अगले गुरु कौन होंगे, तो उनके अंतिम शब्द थे — 'बाबा बकाले' — यानी बकाला गाँव जाओ, जहाँ गुरु तेग़ बहादुर जी मिलेंगे।\n\nआज भी गुरु हर किशन जी को संसार भर के हर गुरुद्वारे में पढ़े जाने वाले अरदास में याद किया जाता है: 'श्री हर किशन धिआईए जिस दिठे सभ दुख जाए' — 'उन गुरु हर किशन का ध्यान करो, जिनके दर्शन मात्र से सारे दुख दूर हो जाते हैं।'",
+          "lat": 28.6268,
+          "lng": 77.2093,
+          "image": "/images/sp-3-seva.jpg"
+        },
+        {
+          "id": "sp-4",
+          "title_en": "The Sarovar",
+          "title_hi": "सरोवर",
+          "story_en": "At the heart of Gurudwara Bangla Sahib lies the Sarovar — the sacred pool whose still, shimmering waters reflect the golden domes of the Gurudwara against the Delhi sky. It is one of the most tranquil and beloved spaces in the entire complex.\n\nThe Sarovar's history reaches back to the original well that stood within Raja Jai Singh's bungalow in 1664. According to tradition, when Guru Har Krishan Ji blessed the water of that well during the epidemic, it became a source of healing and comfort for thousands who were suffering. In 1783, Sardar Baghel Singh built a small sacred tank — the chaubacha — around the original well to honour the Guru's memory. Over the centuries, that tank was gradually expanded into the beautiful Sarovar that exists today.\n\nDevotees from across India and the world come to sit by its banks, to wade into its cool steps, and to carry its water home for family members who are unwell. Many believe, as an article of faith, that the Sarovar's waters carry a spiritual blessing — a belief rooted in the compassionate history of Guru Har Krishan Ji's seva. This is a deeply held personal belief, honoured and respected here.\n\nBeyond its spiritual dimension, the Sarovar is a place of profound stillness in the middle of one of the world's busiest capitals. Colourful fish move through its water. The gentle sound of Gurbani (Sikh hymns) drifts across from the Darbar Sahib. Many visitors — of every faith and none — find simply sitting by the Sarovar to be a moment of unexpected peace.",
+          "story_hi": "गुरुद्वारा बांग्ला साहिब के मध्य में स्थित है सरोवर — एक पावन सरोवर, जिसके शांत, झिलमिलाते जल में गुरुद्वारे के सुनहरे गुंबद और दिल्ली का आकाश एक साथ दिखते हैं। यह पूरे परिसर का सबसे शांत और प्रिय स्थान है।\n\nसरोवर का इतिहास 1664 में राजा जय सिंह की हवेली के उस कुएँ से जुड़ा है, जिसके जल को गुरु हर किशन जी ने महामारी के दौरान अपनी कृपा से आशीर्वादित किया था। श्रद्धालुओं की मान्यता है कि उस जल से हज़ारों रोगियों को राहत मिली। 1783 में सरदार बाघेल सिंह ने उस मूल कुएँ के ऊपर एक छोटा पावन कुंड — चौबच्चा — बनवाया। सदियों के साथ वह कुंड आज के भव्य सरोवर में परिवर्तित हो गया।\n\nभारत और दुनिया भर से श्रद्धालु यहाँ आते हैं — सरोवर के घाटों पर बैठते हैं, उसकी शीतल सीढ़ियों में उतरते हैं, और बीमार परिजनों के लिए जल साथ ले जाते हैं। बहुत से श्रद्धालु मानते हैं कि इस सरोवर के जल में आध्यात्मिक आशीर्वाद है — यह उनकी गहरी आस्था है, जो गुरु हर किशन जी की करुणामयी सेवा की स्मृति में जड़ें रखती है। यहाँ इस आस्था का सम्मान किया जाता है।\n\nआध्यात्मिक महत्व के परे, यह सरोवर दुनिया की सबसे व्यस्त राजधानियों में से एक के बीच गहरी शांति का एक द्वीप है। जल में रंग-बिरंगी मछलियाँ विहार करती हैं। दरबार साहिब से गुरबाणी के मधुर स्वर यहाँ तक आते हैं। हर धर्म के लोग — यहाँ तक कि वे जो किसी धर्म को नहीं मानते — सरोवर के पास बैठकर एक अप्रत्याशित शांति अनुभव करते हैं।",
+          "lat": 28.6265,
+          "lng": 77.209,
+          "image": "/images/sp-4-sarovar.jpg"
+        },
+        {
+          "id": "sp-5",
+          "title_en": "Langar and Kada Prasad",
+          "title_hi": "लंगर और कड़ा प्रसाद",
+          "story_en": "Walk towards the Langar Hall and you will find one of the most remarkable sights in all of Delhi: thousands of people sitting together on the floor, shoulder to shoulder, eating a simple, wholesome meal — for free. No queues by status. No separate sections. Everyone equal.\n\nThe tradition of Guru Ka Langar — the Guru's community kitchen — was founded over 500 years ago by Guru Nanak Dev Ji, the first Sikh Guru. At a time when South Asian society was divided by a rigid caste system, Guru Nanak established a radical act: every person who came to be in his presence first had to sit together in a row (pangat) and share a meal, regardless of whether they were a pauper or an emperor. The Mughal Emperor Akbar himself sat on the floor to eat langar before meeting the Guru.\n\nAt Gurudwara Bangla Sahib, the langar operates 24 hours a day, 7 days a week. On a typical day, it serves tens of thousands of meals. Every morsel of food is prepared and served by volunteers — sevadaars — who consider this humble act of service a spiritual privilege. The meal is simple: dal, sabzi, roti, and rice — vegetarian, wholesome, and prepared with prayer.\n\nBefore leaving the Darbar Sahib (prayer hall), you will receive Kada Prasad — a warm, sacred sweet made from equal parts whole wheat flour, ghee, and sugar, cooked slowly in a large iron wok. It is placed into your cupped hands without distinction: every person receives the same sacred offering. Kada Prasad is not just food — it is the sweetness of grace, shared equally with all.",
+          "story_hi": "लंगर हॉल की ओर बढ़ें और आप दिल्ली के सबसे अद्भुत दृश्यों में से एक देखेंगे: हज़ारों लोग कंधे से कंधा मिलाकर एक साथ ज़मीन पर बैठे हैं, एक सरल, पौष्टिक भोजन खा रहे हैं — मुफ़्त में। कोई श्रेणी नहीं, कोई अलग खंड नहीं। सब बराबर।\n\nगुरु का लंगर — गुरु की सामुदायिक रसोई — की परंपरा 500 से अधिक वर्ष पहले सिखों के पहले गुरु, गुरु नानक देव जी ने स्थापित की थी। जब समाज जाति-पाँति के कठोर बंधनों में जकड़ा हुआ था, तब गुरु नानक ने एक क्रांतिकारी नियम बनाया: उनसे मिलने से पहले हर व्यक्ति को पंगत में — एक पंक्ति में — बैठकर साथ भोजन करना होगा, चाहे वे फ़क़ीर हों या बादशाह। मुग़ल बादशाह अकबर भी लंगर में ज़मीन पर बैठकर खाना खाकर ही गुरु से मिले थे।\n\nगुरुद्वारा बांग्ला साहिब में लंगर सप्ताह के सातों दिन चौबीसों घंटे चलता है। एक सामान्य दिन में यहाँ हज़ारों लोगों को भोजन मिलता है। हर निवाला स्वयंसेवकों — सेवादारों — द्वारा तैयार और परोसा जाता है, जो इस साधारण सेवा को एक आध्यात्मिक सौभाग्य मानते हैं। भोजन सादा है: दाल, सब्जी, रोटी और चावल — शाकाहारी, पौष्टिक और प्रार्थना के साथ पकाया गया।\n\nदरबार साहिब से बाहर निकलते समय आपको कड़ा प्रसाद मिलेगा — गेहूँ के आटे, देसी घी और चीनी को बराबर मात्रा में मिलाकर बड़ी कड़ाही में धीरे-धीरे पकाया गया गर्म, मीठा प्रसाद। यह आपकी अंजलि में रखा जाएगा — बिना किसी भेद के, हर व्यक्ति को समान भाग। कड़ा प्रसाद केवल खाद्य नहीं है — यह ईश्वर की कृपा की मिठास है, सबके साथ समान रूप से बाँटी गई।",
+          "lat": 28.6267,
+          "lng": 77.2086,
+          "image": "/images/sp-5-langar.jpg"
+        },
+        {
+          "id": "sp-6",
+          "title_en": "Baba Baghel Singh Museum",
+          "title_hi": "बाबा बघेल सिंह संग्रहालय",
+          "story_en": "Within the Gurudwara complex, a door leads you into the Baba Baghel Singh Sikh Heritage Multimedia Museum — a remarkable space where 300 years of Sikh history, art, and sacrifice come alive through paintings, murals, and multimedia installations.\n\nThe museum is named for Sardar Baghel Singh Dhaliwal (1730–1802), one of the most consequential Sikh military commanders of the 18th century. In March 1783, at the height of the decline of Mughal power, Baghel Singh led the Sikh Khalsa forces into Delhi. Rather than plunder the city, he negotiated a treaty with the Mughal Emperor Shah Alam II: in exchange for a share of the city's revenue, Baghel Singh would identify and construct Gurudwaras at every site in Delhi associated with the Sikh Gurus. He built seven historic Gurudwaras — including Bangla Sahib, Sis Ganj Sahib, and Rakab Ganj Sahib — cementing the Sikh presence in the capital forever.\n\nThe museum, formally reopened in 2014, houses over 250 paintings and murals. At the entrance, a dramatic painting depicts Baghel Singh at the Red Fort. Inside, visitors walk through the journeys of Guru Nanak Dev Ji across the world, the birth of the Khalsa Panth in 1699, the lives of all ten Gurus, the Gurbani Wall featuring Sufi saints whose verses appear in the Guru Granth Sahib, and a replica of Maharaja Ranjit Singh's golden throne.\n\nMultilingual audio guides in English, Hindi, and Punjabi are available. Entry is free for all visitors. A library of books on Sikh history in many languages is available inside.",
+          "story_hi": "गुरुद्वारा परिसर में एक द्वार से आप प्रवेश करते हैं बाबा बाघेल सिंह सिख हेरिटेज मल्टीमीडिया संग्रहालय में — एक अद्भुत स्थान जहाँ 300 वर्षों का सिख इतिहास, कला और बलिदान चित्रों, भित्तिचित्रों और मल्टीमीडिया प्रस्तुतियों के माध्यम से जीवंत हो उठता है।\n\nयह संग्रहालय सरदार बाघेल सिंह ढालीवाल (1730–1802) के नाम पर है — 18वीं सदी के सबसे महत्वपूर्ण सिख सैन्य नायकों में से एक। मार्च 1783 में, मुग़ल शक्ति के पतन की बेला में, बाघेल सिंह ने सिख खालसा सेना को दिल्ली में नेतृत्व दिया। उन्होंने शहर को लूटने की बजाय मुग़ल बादशाह शाह आलम द्वितीय से एक संधि की: राजस्व के बदले में, वे दिल्ली में सिख गुरुओं से जुड़े हर स्थान पर गुरुद्वारों का निर्माण करेंगे। उन्होंने सात ऐतिहासिक गुरुद्वारे बनाए — बांग्ला साहिब, सीस गंज साहिब, रकाब गंज साहिब सहित — और दिल्ली में सिख उपस्थिति को सदा के लिए स्थापित कर दिया।\n\n2014 में पुनः उद्घाटित इस संग्रहालय में 250 से अधिक चित्र और भित्तिचित्र हैं। प्रवेश द्वार पर बाघेल सिंह को लाल किले पर दर्शाया गया है। अंदर, आगंतुक गुरु नानक देव जी की विश्व यात्राओं, 1699 में खालसा पंथ के जन्म, दसों गुरुओं के जीवन और बलिदानों, गुरबाणी दीवार, और महाराजा रणजीत सिंह के सोने के सिंहासन की प्रतिकृति देख सकते हैं।\n\nअंग्रेज़ी, हिंदी और पंजाबी में ऑडियो गाइड उपलब्ध हैं। प्रवेश सभी के लिए निःशुल्क है। अनेक भाषाओं में सिख इतिहास की पुस्तकों का पुस्तकालय भी यहाँ है।",
+          "lat": 28.6273,
+          "lng": 77.2092,
+          "image": "/images/sp-6-museum.jpg"
+        }
+      ],
+      "crowdHistory": {
+        "_simulated": false,
+        "_source_en": "Based on Google Maps Popular Times data, travel guides (MakeMyTrip, LBB, Lux India Tours), and visitor reports for Gurudwara Bangla Sahib, New Delhi.",
+        "_source_hi": "गूगल मैप्स पॉपुलर टाइम्स डेटा, ट्रैवल गाइड (MakeMyTrip, LBB) और आगंतुक रिपोर्ट पर आधारित।",
+        "_disclaimer_en": "Hourly values reflect observed visitor patterns (Google Maps Popular Times + travel guides). Actual crowd may vary on festivals and public holidays.",
+        "_disclaimer_hi": "घंटेवार मान गूगल मैप्स और यात्रा गाइडों से ली गई सामान्य भीड़ पैटर्न पर आधारित हैं। त्योहारों और सरकारी छुट्टियों पर वास्तविक भीड़ भिन्न हो सकती है।",
+        "bestTimeNote_en": "Best time: 4:30 AM – 7:00 AM (early morning kirtan, nearly empty, deeply peaceful). Also good: after 9:30 PM (illuminated, quiet).",
+        "bestTimeNote_hi": "सबसे अच्छा समय: सुबह 4:30 – 7:00 बजे (सुबह का कीर्तन, लगभग खाली, गहन शांति)। रात 9:30 बजे के बाद भी अच्छा समय है (रोशनी में नहाया हुआ, शांत).",
+        "weekday": {
+          "_label": "Monday – Friday",
+          "_note": "Considerably less crowded than weekends. Mid-day langar rush 12–2 PM. Evening prayers (Rehras Sahib ~6 PM) bring a moderate spike.",
+          "hours": [
+            5,
+            5,
+            8,
+            10,
+            15,
+            20,
+            30,
+            35,
+            45,
+            52,
+            58,
+            62,
+            65,
+            58,
+            50,
+            48,
+            55,
+            65,
+            72,
+            68,
+            52,
+            35,
+            18,
+            8
+          ]
+        },
+        "saturday": {
+          "_label": "Saturday",
+          "_note": "Busy all afternoon. Family groups and tourists arrive from 11 AM. Evening 5–9 PM is peak — expect moderate queues at langar and darshan.",
+          "hours": [
+            5,
+            5,
+            8,
+            10,
+            15,
+            22,
+            35,
+            45,
+            60,
+            70,
+            75,
+            78,
+            80,
+            75,
+            68,
+            65,
+            72,
+            82,
+            88,
+            82,
+            62,
+            40,
+            20,
+            8
+          ]
+        },
+        "sunday": {
+          "_label": "Sunday",
+          "_note": "The busiest day of the week. Crowds are dense from 10 AM through 9 PM. Evening 6–9 PM is the absolute peak. Arrive before 8 AM or after 9:30 PM for peace.",
+          "hours": [
+            5,
+            5,
+            8,
+            10,
+            15,
+            25,
+            40,
+            52,
+            68,
+            78,
+            82,
+            85,
+            88,
+            85,
+            80,
+            75,
+            80,
+            90,
+            92,
+            88,
+            70,
+            48,
+            25,
+            10
+          ]
+        },
+        "crowdThresholds": {
+          "low": {
+            "max": 40,
+            "label_en": "Low",
+            "label_hi": "कम",
+            "color": "emerald"
+          },
+          "medium": {
+            "min": 41,
+            "max": 69,
+            "label_en": "Moderate",
+            "label_hi": "मध्यम",
+            "color": "amber"
+          },
+          "high": {
+            "min": 70,
+            "max": 84,
+            "label_en": "Busy",
+            "label_hi": "व्यस्त",
+            "color": "orange"
+          },
+          "vhigh": {
+            "min": 85,
+            "label_en": "Very Busy",
+            "label_hi": "बहुत व्यस्त",
+            "color": "red"
+          }
+        },
+        "festivalWarning_en": "On Gurpurabs (esp. Guru Nanak Jayanti), Baisakhi, and Bandi Chhor Divas — crowds can be 3× a normal Sunday. Arrive before 6 AM on those days.",
+        "festivalWarning_hi": "गुरपर्वों (विशेष रूप से गुरु नानक जयंती), बैसाखी और बंदी छोड़ दिवस पर — भीड़ सामान्य रविवार से 3 गुना अधिक हो सकती है। उन दिनों सुबह 6 बजे से पहले आएं।",
+        "dailyVisitors_en": "25,000 – 50,000+ visitors on a typical day. Millions annually.",
+        "dailyVisitors_hi": "एक सामान्य दिन में 25,000 – 50,000+ आगंतुक। वार्षिक रूप से लाखों।"
+      },
+      "transport": [
+        {
+          "id": "tr-metro-patel",
+          "mode": "Metro",
+          "icon": "🚇",
+          "name_en": "Metro – Patel Chowk (Yellow Line)",
+          "name_hi": "मेट्रो – पटेल चौक (येलो लाइन)",
+          "route_en": "Yellow Line → Patel Chowk Station (between Central Secretariat & Rajiv Chowk). Exit Gate 3 / Gate 4 → walk ~600 m north along Baba Kharak Singh Marg (~10 min).",
+          "route_hi": "येलो लाइन → पटेल चौक स्टेशन (सेंट्रल सेक्रेटेरिएट और राजीव चौक के बीच)। गेट 3 / गेट 4 से बाहर → बाबा खड़क सिंह मार्ग पर ~600 मी. उत्तर की ओर पैदल (~10 मिनट)।",
+          "approx_fare_en": "₹10 – ₹60 (token) · ₹8 – ₹48 (Metro Card) — depends on boarding station.",
+          "approx_fare_hi": "₹10 – ₹60 (टोकन) · ₹8 – ₹48 (मेट्रो कार्ड) — बोर्डिंग स्टेशन पर निर्भर।",
+          "tip_en": "Metro Card saves 10–20% vs token fare. Avoid 8–10 AM and 5–8 PM peak rush. Last metro ~11:30 PM.",
+          "tip_hi": "मेट्रो कार्ड से टोकन से 10–20% बचत होती है। पीक रश (सुबह 8–10 और शाम 5–8) से बचें। अंतिम मेट्रो ~11:30 बजे।",
+          "walkTime_en": "~10 min walk · ~600 m · Well-lit pavement",
+          "walkTime_hi": "~10 मिनट पैदल · ~600 मी. · रोशन फुटपाथ",
+          "walkSteps": 820,
+          "accessible_en": "Station has lifts & ramps. Pavement is flat — wheelchair-friendly.",
+          "accessible_hi": "स्टेशन में लिफ्ट और रैंप हैं। फुटपाथ सपाट — व्हीलचेयर के अनुकूल।",
+          "bookingLink": "https://delhimetrorail.com/",
+          "bookingLabel_en": "DMRC Metro Card Info",
+          "bookingLabel_hi": "DMRC मेट्रो कार्ड जानकारी",
+          "pickupLat": 28.6247,
+          "pickupLng": 77.2096,
+          "pickupLabel": "Patel Chowk Metro Station"
+        },
+        {
+          "id": "tr-metro-shivaji",
+          "mode": "Metro",
+          "icon": "🚇",
+          "name_en": "Metro – Shivaji Stadium (Blue Line)",
+          "name_hi": "मेट्रो – शिवाजी स्टेडियम (ब्लू लाइन)",
+          "route_en": "Blue Line (Airport Express interchange at New Delhi Stn) → Shivaji Stadium Station. Exit Gate 1 → walk ~550 m east on Panchkuian Marg (~8 min).",
+          "route_hi": "ब्लू लाइन (नई दिल्ली स्टेशन पर एयरपोर्ट एक्सप्रेस इंटरचेंज) → शिवाजी स्टेडियम स्टेशन। गेट 1 से बाहर → पंचकुइयां मार्ग पर ~550 मी. पूर्व की ओर (~8 मिनट)।",
+          "approx_fare_en": "₹10 – ₹60 (token) · ₹8 – ₹48 (Metro Card) — depends on boarding station.",
+          "approx_fare_hi": "₹10 – ₹60 (टोकन) · ₹8 – ₹48 (मेट्रो कार्ड) — बोर्डिंग स्टेशन पर निर्भर।",
+          "tip_en": "Best for visitors arriving from IGI Airport via Airport Express (change at New Delhi Stn → Blue Line → Shivaji Stadium).",
+          "tip_hi": "IGI एयरपोर्ट से एयरपोर्ट एक्सप्रेस से आने वाले यात्रियों के लिए सबसे अच्छा (नई दिल्ली स्टेशन → ब्लू लाइन → शिवाजी स्टेडियम)।",
+          "walkTime_en": "~8 min walk · ~550 m · Mostly shaded",
+          "walkTime_hi": "~8 मिनट पैदल · ~550 मी. · अधिकतर छायादार",
+          "walkSteps": 740,
+          "accessible_en": "Station has lifts. Path has minor kerb steps — manageable with assistance.",
+          "accessible_hi": "स्टेशन में लिफ्ट है। रास्ते में छोटे फुटपाथ हैं — सहायता से प्रबंधनीय।",
+          "bookingLink": "https://delhimetrorail.com/",
+          "bookingLabel_en": "DMRC Metro Card Info",
+          "bookingLabel_hi": "DMRC मेट्रो कार्ड जानकारी",
+          "pickupLat": 28.6258,
+          "pickupLng": 77.2054,
+          "pickupLabel": "Shivaji Stadium Metro Station"
+        },
+        {
+          "id": "tr-auto",
+          "mode": "Auto / E-Rickshaw",
+          "icon": "🛺",
+          "name_en": "Auto-Rickshaw / E-Rickshaw",
+          "name_hi": "ऑटो-रिक्शा / ई-रिक्शा",
+          "route_en": "Auto-rickshaws are available throughout central Delhi. Tell the driver: \"Gurudwara Bangla Sahib, Baba Kharak Singh Marg.\" App-based autos (Namma Auto, Rapido Auto) show fixed fares upfront.",
+          "route_hi": "ऑटो-रिक्शा पूरे मध्य दिल्ली में उपलब्ध हैं। चालक को बताएं: \"गुरुद्वारा बांग्ला साहिब, बाबा खड़क सिंह मार्ग।\" ऐप-आधारित ऑटो (नम्मा ऑटो, रैपिडो) पहले से निश्चित किराया दिखाते हैं।",
+          "approx_fare_en": "₹30 – ₹80 from Connaught Place / Janpath. ₹10 – ₹30 for E-Rickshaw from nearest metro gate.",
+          "approx_fare_hi": "कनॉट प्लेस / जनपथ से ₹30 – ₹80। निकटतम मेट्रो गेट से ई-रिक्शा ₹10 – ₹30।",
+          "tip_en": "Always insist on the electronic meter or book via Namma/Rapido app for fixed fare. Refuse if driver refuses meter.",
+          "tip_hi": "हमेशा इलेक्ट्रॉनिक मीटर पर जोर दें या नम्मा/रैपिडो ऐप से बुक करें। मीटर मना करने पर सवारी न करें।",
+          "walkTime_en": "Direct drop-off at gate. No walk needed.",
+          "walkTime_hi": "सीधे गेट पर उतरें। पैदल चलने की आवश्यकता नहीं।",
+          "walkSteps": 0,
+          "accessible_en": "E-Rickshaws have low entry — easier for seniors. Ask driver to slow for comfort.",
+          "accessible_hi": "ई-रिक्शा में कम ऊंचाई — बुजुर्गों के लिए आसान। आराम के लिए चालक से धीरे चलने को कहें।",
+          "bookingLink": "https://rapido.bike/",
+          "bookingLabel_en": "Book Auto on Rapido",
+          "bookingLabel_hi": "Rapido पर ऑटो बुक करें",
+          "pickupLat": 28.627,
+          "pickupLng": 77.209,
+          "pickupLabel": "Bangla Sahib Gate (Auto Stand)"
+        },
+        {
+          "id": "tr-cab",
+          "mode": "Cab / Taxi",
+          "icon": "🚕",
+          "name_en": "Cab / Taxi (Ola · Uber · Rapido)",
+          "name_hi": "कैब / टैक्सी (Ola · Uber · Rapido)",
+          "route_en": "Book via app. Drop-off point: \"Gurudwara Bangla Sahib, Baba Kharak Singh Marg, New Delhi.\" Google Maps pin: 28.6270°N 77.2090°E.",
+          "route_hi": "ऐप से बुक करें। ड्रॉप-ऑफ: \"गुरुद्वारा बांग्ला साहिब, बाबा खड़क सिंह मार्ग, नई दिल्ली।\" Google Maps पिन: 28.6270°N 77.2090°E।",
+          "approx_fare_en": "₹80 – ₹250 depending on distance, cab type & surge pricing.",
+          "approx_fare_hi": "दूरी, कैब प्रकार और सर्ज प्राइसिंग के आधार पर ₹80 – ₹250।",
+          "tip_en": "Use the in-app fare estimate before booking. Surge pricing common 8–10 AM and 5–8 PM. Rapido Bike is cheapest for solo visitors (₹30–₹80).",
+          "tip_hi": "बुक करने से पहले ऐप का किराया अनुमान देखें। सुबह 8–10 और शाम 5–8 बजे सर्ज आम है। अकेले यात्रियों के लिए रैपिडो बाइक सबसे सस्ती (₹30–₹80)।",
+          "walkTime_en": "Direct drop-off at gate. No walk needed.",
+          "walkTime_hi": "सीधे गेट पर उतरें। पैदल चलने की आवश्यकता नहीं।",
+          "walkSteps": 0,
+          "accessible_en": "Ola/Uber have AC cabs and Prime SUVs. Request \"accessible\" option for wheelchair assistance (availability varies).",
+          "accessible_hi": "Ola/Uber में AC कैब और Prime SUV हैं। व्हीलचेयर सहायता के लिए \"accessible\" विकल्प चुनें (उपलब्धता भिन्न हो सकती है)।",
+          "bookingLink": "https://www.olacabs.com/",
+          "bookingLabel_en": "Book on Ola",
+          "bookingLabel_hi": "Ola पर बुक करें",
+          "pickupLat": 28.627,
+          "pickupLng": 77.209,
+          "pickupLabel": "Bangla Sahib Gate (Cab Drop)"
+        }
+      ],
+      "etiquette": [
+        {
+          "en": "Cover your head before entering. Free cloth scarves are available at the entrance.",
+          "hi": "प्रवेश से पहले सिर ढकें। प्रवेश द्वार पर मुफ्त कपड़े उपलब्ध हैं।"
+        },
+        {
+          "en": "Remove your footwear and leave it in the designated shoe-keeping area.",
+          "hi": "जूते उतारें और उन्हें निर्धारित जूता रखने के स्थान पर छोड़ें।"
+        },
+        {
+          "en": "Wash your hands and feet at the entrance tap before entering the main hall.",
+          "hi": "मुख्य हॉल में प्रवेश करने से पहले प्रवेश द्वार के नल पर हाथ और पैर धोएं।"
+        },
+        {
+          "en": "Maintain silence and a respectful demeanour inside the Darbar Sahib (prayer hall).",
+          "hi": "दरबार साहिब (प्रार्थना कक्ष) के अंदर मौन और सम्मानजनक व्यवहार बनाए रखें।"
+        },
+        {
+          "en": "No smoking, alcohol, or non-vegetarian food is permitted anywhere on the premises.",
+          "hi": "परिसर में कहीं भी धूम्रपान, शराब या मांसाहारी भोजन की अनुमति नहीं है।"
+        },
+        {
+          "en": "Langar (community meal) is free for everyone. Sit on the floor in rows as is the tradition.",
+          "hi": "लंगर (सामुदायिक भोजन) सभी के लिए निःशुल्क है। परंपरा के अनुसार पंक्तियों में फर्श पर बैठें।"
+        },
+        {
+          "en": "Photography is generally permitted in open areas. Ask respectfully before photographing people.",
+          "hi": "खुले क्षेत्रों में फोटोग्राफी आमतौर पर अनुमत है। लोगों की फोटो लेने से पहले विनम्रता से पूछें।"
+        },
+        {
+          "en": "Bow before the Guru Granth Sahib (holy scripture) as a mark of respect if you wish to.",
+          "hi": "यदि आप चाहें तो सम्मान के रूप में गुरु ग्रंथ साहिब (पवित्र ग्रंथ) के सामने झुकें।"
+        }
+      ],
+      "emergencyContacts": {
+        "police": {
+          "label_en": "Police",
+          "label_hi": "पुलिस",
+          "number": "100"
+        },
+        "ambulance": {
+          "label_en": "Ambulance",
+          "label_hi": "एम्बुलेंस",
+          "number": "108"
+        },
+        "touristHelpline": {
+          "label_en": "Tourist Helpline",
+          "label_hi": "पर्यटक हेल्पलाइन",
+          "number": "1363"
+        },
+        "womenHelpline": {
+          "label_en": "Women Helpline",
+          "label_hi": "महिला हेल्पलाइन",
+          "number": "1091"
+        },
+        "siteOffice": {
+          "label_en": "DSGMC Main Office",
+          "label_hi": "डीएसजीएमसी मुख्य कार्यालय",
+          "number": "011-23712580"
+        }
+      },
+      "parkingNote_en": "Limited street parking on Baba Kharak Singh Marg. Paid parking at Shivaji Stadium parking lot (~5 min walk, ₹20–₹40/hr). Metro strongly recommended — parking is scarce on busy days.",
+      "parkingNote_hi": "बाबा खड़क सिंह मार्ग पर सीमित स्ट्रीट पार्किंग। शिवाजी स्टेडियम पार्किंग में पेड पार्किंग (~5 मिनट पैदल, ₹20–₹40/घंटा)। मेट्रो की दृढ़ता से सिफारिश — व्यस्त दिनों में पार्किंग दुर्लभ।"
+    }
+  ]
+}
