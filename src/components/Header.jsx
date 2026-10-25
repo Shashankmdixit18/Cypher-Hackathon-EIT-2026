@@ -38,31 +38,28 @@ export default function Header() {
             to="/"
             className="flex min-w-0 items-center gap-2 sm:gap-3 group"
           >
-            {/* Jewel Ik Onkar Emblem */}
-            <span
-              className={`flex h-9 w-9 sm:h-10 sm:w-10 shrink-0 items-center justify-center rounded-full text-base font-display italic transition-all duration-300 group-hover:scale-105 ${
-                a
-                  ? 'bg-yellow-400 text-gray-950'
-                  : 'bg-gradient-to-br from-cyan-300 via-teal-500 to-[#08758a] text-white shadow-[0_0_22px_rgba(34,211,238,0.28)] ring-2 ring-cyan-100/20'
-              }`}
+            <img
+              src={a ? '/brand/mark-white.svg' : '/brand/mark-reversed.svg'}
+              alt=""
               aria-hidden="true"
-            >
-              ੴ
-            </span>
+              className="h-9 w-9 shrink-0 transition-transform duration-300 group-hover:scale-105 sm:h-10 sm:w-10"
+            />
             <span className="flex min-w-0 flex-col leading-tight">
               <span
-                className={`font-display italic text-sm sm:text-base font-bold truncate tracking-tight transition-colors ${
+                className={`font-display text-sm sm:text-base truncate tracking-tight transition-colors ${
                   a ? 'text-yellow-400' : 'text-slate-50 group-hover:text-cyan-200'
                 }`}
               >
-                Heritage Companion
+                <span className="font-bold">Heritage</span>{' '}
+                <span className="italic font-medium">Companion</span>
               </span>
               <span
-                className={`font-sans text-[8px] sm:text-[9px] tracking-[0.22em] uppercase font-bold truncate ${
+                className={`text-[8px] sm:text-[9px] tracking-wide truncate ${
                   a ? 'text-yellow-500' : 'text-cyan-300/80'
                 }`}
+                style={{ fontFamily: "'Noto Serif Devanagari', serif" }}
               >
-                {lang === 'en' ? 'Bangla Sahib · New Delhi' : 'बांग्ला साहिब · नई दिल्ली'}
+                हेरिटेज कम्पैनियन
               </span>
             </span>
           </Link>

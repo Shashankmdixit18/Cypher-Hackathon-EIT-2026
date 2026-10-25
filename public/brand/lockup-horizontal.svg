@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 160" role="img" aria-labelledby="title desc">
+  <title id="title">Heritage Companion</title>
+  <desc id="desc">A heritage gateway, a location pin, and two travellers, with English and Hindi wordmarks.</desc>
+  <g transform="translate(14 24) scale(1.12)">
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 84V47a32 32 0 0 1 64 0v37" stroke="#B5452E" stroke-width="8"/>
+      <path d="M50 27c-11 0-19 8-19 19 0 13 19 31 19 31s19-18 19-31c0-11-8-19-19-19Z" stroke="#F2A900" stroke-width="5.5"/>
+      <circle cx="43" cy="43" r="3.5" fill="#B5452E" stroke="none"/>
+      <path d="M43 50v18" stroke="#B5452E" stroke-width="5.5"/>
+      <circle cx="57" cy="40" r="3.5" fill="#B5452E" stroke="none"/>
+      <path d="M57 47v21" stroke="#B5452E" stroke-width="5.5"/>
+    </g>
+  </g>
+  <text x="142" y="72" fill="#1E2A5A" font-family="Fraunces, 'DM Serif Display', Georgia, serif" font-size="48" letter-spacing="-1.2"><tspan font-weight="700">Heritage</tspan><tspan dx="8" font-style="italic" font-weight="500">Companion</tspan></text>
+  <text x="146" y="101" fill="#1E2A5A" font-family="'Noto Serif Devanagari', 'Tiro Devanagari Hindi', serif" font-size="19">हेरिटेज कम्पैनियन</text>
+  <text x="146" y="133" fill="#B5452E" font-family="Inter, Poppins, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.1">STORIES  |  CROWDS  |  SAFETY</text>
+</svg>

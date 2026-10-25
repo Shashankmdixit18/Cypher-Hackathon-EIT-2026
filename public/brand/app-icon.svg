@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Heritage Companion app icon">
+  <circle cx="50" cy="50" r="49" fill="#FFF8EC"/>
+  <g transform="translate(6 6) scale(.88)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 84V47a32 32 0 0 1 64 0v37" stroke="#B5452E" stroke-width="8"/>
+    <path d="M50 27c-11 0-19 8-19 19 0 13 19 31 19 31s19-18 19-31c0-11-8-19-19-19Z" stroke="#F2A900" stroke-width="5.5"/>
+    <circle cx="43" cy="43" r="3.5" fill="#B5452E" stroke="none"/>
+    <path d="M43 50v18" stroke="#B5452E" stroke-width="5.5"/>
+    <circle cx="57" cy="40" r="3.5" fill="#B5452E" stroke="none"/>
+    <path d="M57 47v21" stroke="#B5452E" stroke-width="5.5"/>
+  </g>
+</svg>
